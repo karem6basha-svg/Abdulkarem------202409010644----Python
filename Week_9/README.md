@@ -32,4 +32,4 @@ begins investigating.
    - Low -> Ali
 5. A formatted ticket summary is printed with status `Pending`.
 
-![Demo](week_9_demo.gif)
+![Demo](Week_9_demo.gif)
